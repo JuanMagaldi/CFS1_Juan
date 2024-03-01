@@ -1,0 +1,12 @@
+console.log("------COMO COCINAR UNA TORTA------");
+console.log("PASO 1: preparar ingredientes");
+console.log("PASO 2: agregar harina");
+console.log("PASO 3: agregar huevos");
+console.log("PASO 4: agregar leche");
+console.log("PASO 5: mezclar ingredientes");
+console.log("PASO 6: poner en un molde para torta");
+console.log("PASO 7: poner torta en el horno");
+console.log("PASO 8: cocinar por 1 hora");
+console.log("PASO 9: sacar torta del horno");
+console.log("PASO 10: dejar enfriar");
+console.log("----TORTA LISTA PARA CORTAR EN PORCIONES----");
